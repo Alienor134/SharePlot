@@ -2,7 +2,12 @@
 
 # Introduction
 
-This is a notebook directly inspired from [this tutorial](https://towardsdatascience.com/how-to-create-a-plotly-visualization-and-embed-it-on-websites-517c1a78568b) showing how to publish online a matplotlib figure and the associated data. It can be usefull to share raw data of figures from articles to be published. **Visit the [tutorial](https://towardsdatascience.com/how-to-create-a-plotly-visualization-and-embed-it-on-websites-517c1a78568b) for more details !**
+This is a notebook directly inspired from this [tutorial](https://towardsdatascience.com/how-to-create-a-plotly-visualization-and-embed-it-on-websites-517c1a78568b).  
+It explains how to publish online a figure generated with matplotlib and its associated data very easily using plotly. It can be usefull to share raw data of figures from scientific papers.   
+**Visit the [tutorial](https://towardsdatascience.com/how-to-create-a-plotly-visualization-and-embed-it-on-websites-517c1a78568b) for more details !**
+
+![png](plt_to_plotly_files/example.png)
+
 
 ## Step 1: Install plotly and chart studio on a virtual environment
 
@@ -61,7 +66,7 @@ import chart_studio
 import chart_studio.plotly as py
 ```
 
-Fill the credential file with your data: 
+Fill the credential file with your data (sign-up to chart-studio [here](https://chart-studio.plotly.com/feed/#/), find the API key in the *settings*).
 
 
 ```python
