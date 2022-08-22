@@ -3,7 +3,7 @@
 # Introduction
 
 This is a notebook directly inspired from this [tutorial](https://towardsdatascience.com/how-to-create-a-plotly-visualization-and-embed-it-on-websites-517c1a78568b).  
-It explains how to publish online a figure generated with matplotlib and its associated data very easily using plotly. It can be usefull to share raw data of figures from scientific papers.   
+It explains how to publish online a figure generated with matplotlib and its associated data very easily using [Plotly](https://plotly.com/). It can be usefull to share raw data of figures from scientific papers.   
 **Visit the [tutorial](https://towardsdatascience.com/how-to-create-a-plotly-visualization-and-embed-it-on-websites-517c1a78568b) for more details !**
 
 ![png](plt_to_plotly_files/example.png)
